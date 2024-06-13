@@ -1,0 +1,18 @@
+import pandas as pd
+import requests
+import pdfplumber
+
+with pdfplumber.open("eb_redemption_details.pdf") as f:
+    for i in f.pages:
+        print(i.extract_table()
+
+
+k=[]
+for j in range(len(m)):
+    for i in m[j]:
+        k.append(i)
+
+
+
+df1 = pd.DataFrame(k[1:], columns=k[0])
+df1

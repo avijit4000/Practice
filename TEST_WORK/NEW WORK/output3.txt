@@ -1,0 +1,301 @@
+Rechnung Seite 1 von 7firstcolo GmbH
+Kruppstraße 105
+60388 Frankfurt am Main
+Germany
+Tel: +49-69-120069-0
+Fax: +49-69-120069-30
+Mail: billing@first-colo.net
+UltaHost, inc
+Elin Doughous
+651 N Broad St. Suite 206.
+Middletown/Delaware, 19709
+USKunden-Nr: 10618
+Rechnungs-Nr: 230649686
+Rechnungsdatum: 06.06.2023
+Leistungsort:Hanauer Landstr. 291b
+60314 Frankfurt am Main, DE
+----
+Artikel Anzahl E. Netto Ges. Netto MwSt
+1.1 HE im 19'' Rack 2,000 65,000 € 130,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+2.IP-Netz (159.100.29.0/24, 212.224.86.0/24, 212.224.88.0/24, 9,000 154,500 € 1.390,50 €
+31.172.80.0/24, 31.172.83.0/24, 79.133.41.0/24, 79.133.51.0/24,
+79.133.56.0/24, 159.100.9.0/24)
+Abrechnung für 01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+3.Remote Hands - Service Dienstleistung 1,000 45,000 € 45,00 €
+Ihr Auftrag im Ticket #FC-37138 - 05.05.2023 (+ 0,00 €) 0%
+4.Remote Hands - Service Dienstleistung 1,000 45,000 € 45,00 €
+Ihr Auftrag im Ticket #FC-37498 - 28.05.2023 (+ 0,00 €) 0%
+5.Remote Hands - Service Dienstleistung 1,000 45,000 € 45,00 €
+Ihr Auftrag im Ticket #FC-36790 - 18.05.2023 (+ 0,00 €) 0%
+6.Remote Hands - Service Dienstleistung 1,000 45,000 € 45,00 €
+Ihr Auftrag im Ticket #FC-37510 - 29.05.2023 (+ 0,00 €) 0%
+7.Remote Hands - Service Dienstleistung 1,000 45,000 € 45,00 €
+Ihr Auftrag im Ticket #FC-37150 - 05.05.2023 (+ 0,00 €) 0%
+8.Remote Hands - Service Dienstleistung 2,000 45,000 € 90,00 €
+Ihr Auftrag im Ticket #FC-37331 - 16.05.2023 (+ 0,00 €) 0%
+9.Network Card extension + cabling (FC-24908) 5,000 11,000 € 55,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+10.Hardware: Samsung PM883 3840GB (FC-24821, FC-24995) 4,000 22,000 € 88,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+11.Hardware: Samsung PM883 1920GB (FC-25256) 1,000 12,500 € 12,50 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+Kontoinhaber: firstcolo GmbH
+Bank: Sparkasse Rhein-Nahe
+BIC: MALADE51KRE
+IBAN: DE06 5605 0180 0017 1137 21USt-IdNr.: DE314364770
+Register-Nr: HRB 113867, Frankfurt am Main
+Geschäftsführung: Jerome Evans, Nicolaj Kamensek
+Webseite: https://first-colo.net
+Rechnung Seite 2 von 7firstcolo GmbH
+Kruppstraße 105
+60388 Frankfurt am Main
+Germany
+Tel: +49-69-120069-0
+Fax: +49-69-120069-30
+Mail: billing@first-colo.net
+12.Hardware: RAM-Upgrade AMD7452-1 (FC-25362) 1,000 91,500 € 91,50 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+13.19'' Rack inkl. Klima (M8) 1,000 752,850 € 752,85 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+14.Stromleistung je kW/h Mindestabnahme 1.000,000 0,550 € 550,00 €
+Abrechnung für 01.06.2023 - 30.06.2023 - inkl. USV, Notstrom und Kühlung (+ 0,00 €) 0%
+15.Mietgerät: Network Switch Juniper EX4300-48T (FC-213814D, 2,000 55,590 € 111,18 €
+FC-2137599)
+Abrechnung für 01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+16.Mietserver Ulta AX160-NVMe 32 Core (lease-purchase) (FC-23943) 1,000 151,270 € 151,27 €
+Abrechnung für 01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+17.Mietserver Ulta AX160-NVMe 24 Core (lease-purchase) (FC-23944-57 14,000 110,540 € 1.547,56 €
+)
+Abrechnung für 01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+18.Mietserver Ulta100 Xeon SSD (lease-purchase) (FC-23958-62) 5,000 59,800 € 299,00 €
+Abrechnung für 01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+19.Mietserver Ulta100 Xeon No-SSD (lease-purchase) (FC-23963-67) 5,000 48,530 € 242,65 €
+Abrechnung für 01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+20.Stromleistung je kW/h zusätzlich: gesamt 6.942,000 0,570 € 3.956,94 €
+Abrechnung für 01.05.2023 - 31.05.2023 - inkl. USV, Notstrom und Kühlung (+ 0,00 €) 0%
+21.Stromleistung je kW/h auf Stromkreis: UV-RZ-Vario-B/F2.4 48,000 0,000 € 0,00 €
+Abrechnung für 01.05.2023 - 31.05.2023 - inkl. USV, Notstrom und Kühlung (+ 0,00 €) 0%
+22.Stromleistung je kW/h auf Stromkreis: UV-RZ-Vario-B/F1.8 2.145,000 0,000 € 0,00 €
+Abrechnung für 01.05.2023 - 31.05.2023 - inkl. USV, Notstrom und Kühlung (+ 0,00 €) 0%
+23.Stromleistung je kW/h auf Stromkreis: UV-RZ-Vario-A/F2.4 58,000 0,000 € 0,00 €
+Abrechnung für 01.05.2023 - 31.05.2023 - inkl. USV, Notstrom und Kühlung (+ 0,00 €) 0%
+24.Stromleistung je kW/h auf Stromkreis: UV-RZ-Vario-A/F1.8 2.042,000 0,000 € 0,00 €
+Abrechnung für 01.05.2023 - 31.05.2023 - inkl. USV, Notstrom und Kühlung (+ 0,00 €) 0%
+25.Stromleistung je kW/h auf Stromkreis: UV2/11F9 1.736,000 0,000 € 0,00 €
+Abrechnung für 01.05.2023 - 31.05.2023 - inkl. USV, Notstrom und Kühlung (+ 0,00 €) 0%
+26.Stromleistung je kW/h auf Stromkreis: UV2/11F10 1.913,000 0,000 € 0,00 €
+Abrechnung für 01.05.2023 - 31.05.2023 - inkl. USV, Notstrom und Kühlung (+ 0,00 €) 0%
+Kontoinhaber: firstcolo GmbH
+Bank: Sparkasse Rhein-Nahe
+BIC: MALADE51KRE
+IBAN: DE06 5605 0180 0017 1137 21USt-IdNr.: DE314364770
+Register-Nr: HRB 113867, Frankfurt am Main
+Geschäftsführung: Jerome Evans, Nicolaj Kamensek
+Webseite: https://first-colo.net
+Rechnung Seite 3 von 7firstcolo GmbH
+Kruppstraße 105
+60388 Frankfurt am Main
+Germany
+Tel: +49-69-120069-0
+Fax: +49-69-120069-30
+Mail: billing@first-colo.net
+27.Mietserver Private Company Server (Ulta AX160-NVMe 24 1,000 110,540 € 110,54 €
+Core) (FC-25599)
+Abrechnung für 01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+28.Hardware: Samsung 970 EVO M.2 with 2TB (FC-25684) 9,000 12,500 € 112,50 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+29.Mietserver [KS] Ulta AX160-NVMe 24 Core (AMD7402-15, 3,000 123,520 € 370,56 €
+AMD7402-16, AMD7402-17)
+Abrechnung für 01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+30.Mietserver [KS] Ulta100 Xeon NVMe SSD (E-2276G-11 E-2276G-12) 2,000 59,630 € 119,26 €
+Abrechnung für 01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+31.Hardware: RAM-Upgrade 128 GB AMD 7402-11 (FC-26693) 1,000 30,500 € 30,50 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+32.Hardware: Server-Upgrade (2x 960 GB PM883) (FC-26713) 2,000 11,270 € 22,54 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+33.Traffic Flatrate 6 Gbit 1,000 2.650,000 € 2.650,00 €
+Abrechnung für 01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+34.Shared Housing Ultahost-A3 1,000 65,000 € 65,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+35.Hardware: Server-Upgrade: SSD (FC-29004) 1,000 415,000 € 415,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+36.Hardware: Server-Upgrade: RAM (FC-29004) 1,000 399,000 € 399,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+37.1G Uplink Ultahost-A3 (FC-30128) 1,000 10,000 € 10,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+38.Hardware: 64 GB RAM Ultahost-A1 (FC-29564) 1,000 27,000 € 27,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+39.Hardware: Server-Upgrade AMD 7451-1 (FC-31437) 1,000 90,000 € 90,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+40.DDoS Protection Arbor Lite (FC-31602) 1,000 99,000 € 99,00 €
+Abrechnung für 01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+41.Mietserver Dell Server Hardware (FC-31772) 1,000 698,000 € 698,00 €
+Abrechnung für 01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+Kontoinhaber: firstcolo GmbH
+Bank: Sparkasse Rhein-Nahe
+BIC: MALADE51KRE
+IBAN: DE06 5605 0180 0017 1137 21USt-IdNr.: DE314364770
+Register-Nr: HRB 113867, Frankfurt am Main
+Geschäftsführung: Jerome Evans, Nicolaj Kamensek
+Webseite: https://first-colo.net
+Rechnung Seite 4 von 7firstcolo GmbH
+Kruppstraße 105
+60388 Frankfurt am Main
+Germany
+Tel: +49-69-120069-0
+Fax: +49-69-120069-30
+Mail: billing@first-colo.net
+42.Hardware: Server-Upgrade E-2276G-1 (FC-32269) 1,000 130,000 € 130,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+43.Hardware: Server-Upgrade AMD7402-5 (FC-32606) 1,000 13,600 € 13,60 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+44.Hardware: Serverupgrade A2 (FC-32852) 1,000 374,000 € 374,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+45.Hardware: FC-33801 1,000 172,800 € 172,80 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+46.1/1 Rack (R1/3.16) 1,000 495,000 € 495,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+47.Power Feeds Rack R1/3.16 1,000 160,000 € 160,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+48.Uplinks Rack R1/3.16 1,000 129,000 € 129,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+49.Mietgerät: Juniper QFX5100-48T (FC-2291D2A, FC-2291EB8) 2,000 175,000 € 350,00 €
+Abrechnung für 01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+50.Mietserver Ulta 100-Xeon no SSD (FC-33243-57) 15,000 49,000 € 735,00 €
+Abrechnung für 01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+51.Mietserver: VPS Host (FC-33262-64) 1,000 433,000 € 433,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+52.Hardware Components 1,000 323,000 € 323,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+53.Storage-Upgrade 1,000 15,000 € 15,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+54.Hardware: Intel X540-T2 (Dual 10GbE) 2,000 24,000 € 48,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+55.IP-Netz (159.100.30.0/24, 212.224.107.0/24) 2,000 189,000 € 378,00 €
+Abrechnung für 01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+56.1TB SSD for server AMD7402-16 1,000 5,000 € 5,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+57.Dedicated Server: VPS Host (NVMe based) 1,000 618,000 € 618,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+Kontoinhaber: firstcolo GmbH
+Bank: Sparkasse Rhein-Nahe
+BIC: MALADE51KRE
+IBAN: DE06 5605 0180 0017 1137 21USt-IdNr.: DE314364770
+Register-Nr: HRB 113867, Frankfurt am Main
+Geschäftsführung: Jerome Evans, Nicolaj Kamensek
+Webseite: https://first-colo.net
+Rechnung Seite 5 von 7firstcolo GmbH
+Kruppstraße 105
+60388 Frankfurt am Main
+Germany
+Tel: +49-69-120069-0
+Fax: +49-69-120069-30
+Mail: billing@first-colo.net
+58.3U Supermicro Server - Modification 1,000 204,650 € 204,65 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+59.Dedicated Server FC-35348, FC-35624 2,000 130,000 € 260,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+60.Dedicated Server FC-35349 1,000 140,000 € 140,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+61.Serverupgrade 276G-1 1,000 33,450 € 33,45 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+62.LSI 9560-16i Raid Controller 1,000 45,000 € 45,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+63.1.92TB PM983 Samsung NVMe SSD 1,000 8,300 € 8,30 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+64.1x 960GB PM893 SSD 1,000 5,500 € 5,50 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+65.Dedicated Server FC-35583 bis FC-35597 15,000 49,290 € 739,35 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+66.Dedicated Server FC-35865 1,000 88,000 € 88,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+67.Mietserver [KS] Ulta100 Xeon No-SSD (lease purchase) (E-2276G-13 5,000 48,530 € 242,65 €
+, E-2276G-14, E-2276G-15, E-2276G-16, E-2276G-17)
+Abrechnung für 01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+68.Stromleistung Standort Kruppstraße je kW/h zusätzlich 2.221,000 0,570 € 1.265,97 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+69.Dedicated Server: FC-36099 1,000 130,000 € 130,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+70.Dedicated Server: FC-36067, FC-36068 2,000 125,000 € 250,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+71.Dedicated Server: FC-36035 1,000 140,000 € 140,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+72.Hardware: 960GB M.2 PM983 NVMe 5,000 4,250 € 21,25 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+Kontoinhaber: firstcolo GmbH
+Bank: Sparkasse Rhein-Nahe
+BIC: MALADE51KRE
+IBAN: DE06 5605 0180 0017 1137 21USt-IdNr.: DE314364770
+Register-Nr: HRB 113867, Frankfurt am Main
+Geschäftsführung: Jerome Evans, Nicolaj Kamensek
+Webseite: https://first-colo.net
+Rechnung Seite 6 von 7firstcolo GmbH
+Kruppstraße 105
+60388 Frankfurt am Main
+Germany
+Tel: +49-69-120069-0
+Fax: +49-69-120069-30
+Mail: billing@first-colo.net
+73.1/1 Colocation Rack: R3/3.17 1,000 495,000 € 495,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+74.Power Feeds for 5KW Colocation Racks 1,000 160,000 € 160,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+75.Fiber Uplinks for 5KW Colocation Racks 1,000 129,000 € 129,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+76.Network Switch: Juniper QFX5100-48T 1,000 175,000 € 175,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+77.3.84TB Samsung Enterprise SDD PM893 10,000 13,100 € 131,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+78.Hardware: 1.92TB Samsung PM983 NVMe 1,000 11,500 € 11,50 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+79.Dedicted Server - VPS Host: FC-35579, FC-35580, FC-35581 3,000 705,000 € 2.115,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+80.Hardware: 960GB PM893 SS 1,000 4,700 € 4,70 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+81./24 Subnet 212.224.93.0/24, 159.100.13.0/24 2,000 154,500 € 309,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+82.Dedicated Server: FC-36865 1,000 105,000 € 105,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+83.Dedicated Server - AMD 7763 1,000 177,000 € 177,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+84.Dedicated Server - AMD 7352 4,000 100,000 € 400,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+85.Hardware: 1.92 TB SSD Samsung PM893 MZ7L31T9HBLT 4,000 5,800 € 23,20 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+86.Hardware: X520-DA2 2,000 10,000 € 20,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+87.Dedicated Server - FC-37113 1,000 258,000 € 258,00 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+88.Dedicated Server - Ulta100 24,000 63,200 € 1.516,80 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+Kontoinhaber: firstcolo GmbH
+Bank: Sparkasse Rhein-Nahe
+BIC: MALADE51KRE
+IBAN: DE06 5605 0180 0017 1137 21USt-IdNr.: DE314364770
+Register-Nr: HRB 113867, Frankfurt am Main
+Geschäftsführung: Jerome Evans, Nicolaj Kamensek
+Webseite: https://first-colo.net
+Rechnung Seite 7 von 7firstcolo GmbH
+Kruppstraße 105
+60388 Frankfurt am Main
+Germany
+Tel: +49-69-120069-0
+Fax: +49-69-120069-30
+Mail: billing@first-colo.net
+89.Dedicated Server - FC-36850 1,000 84,800 € 84,80 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+90.Hardware: 3.84TB PM893 2,000 9,600 € 19,20 €
+01.06.2023 - 30.06.2023 (+ 0,00 €) 0%
+Zwischensumme: 29.000,57 €
+Enthält Steuerbefreite Umsätze nach § 13b UStG.
+Rechnungsbetrag: 29.000,57 €
+Der Rechnungsbetrag ist sofort ohne Abzug fällig. Bitte überweisen Sie diesen auf das unten aufgeführte Konto.
+The recipient is liable for VAT under the reverse charge mechnism!
+Kontoinhaber: firstcolo GmbH
+Bank: Sparkasse Rhein-Nahe
+BIC: MALADE51KRE
+IBAN: DE06 5605 0180 0017 1137 21USt-IdNr.: DE314364770
+Register-Nr: HRB 113867, Frankfurt am Main
+Geschäftsführung: Jerome Evans, Nicolaj Kamensek
+Webseite: https://first-colo.net

@@ -1,0 +1,78 @@
+Name,quantity,per_unit,total
+1 HE im 19'' Rack,2000,65000,13000
+"IP-Netz (159.100.29.0/24, 212.224.86.0/24, 212.224.88.0/24,",8000,154500,123600
+Remote Hands - Service Dienstleistung,1000,45000,4500
+Remote Hands - Service Dienstleistung,3000,45000,13500
+Remote Hands - Service Dienstleistung,1000,45000,4500
+Remote Hands - Service Dienstleistung,8000,45000,36000
+Remote Hands - Service Dienstleistung,3000,45000,13500
+Remote Hands - Service Dienstleistung,1000,45000,4500
+Remote Hands - Service Dienstleistung,2000,45000,9000
+Remote Hands - Service Dienstleistung,3000,45000,13500
+Network Card extension + cabling (FC-24908),5000,11000,5500
+"Hardware: Samsung PM883 3840GB (FC-24821, FC-24995)",4000,22000,8800
+Hardware: Samsung PM883 1920GB (FC-25256),1000,12500,1250
+Hardware: RAM-Upgrade AMD7452-1 (FC-25362),1000,91500,9150
+19'' Rack inkl. Klima (M8),1000,752850,75285
+Stromleistung je kW/h Mindestabnahme,1000000,550,55000
+"Mietgerät: Network Switch Juniper EX4300-48T (FC-213814D,",2000,55590,11118
+Mietserver Ulta AX160-NVMe 32 Core (lease-purchase) (FC-23943),1000,151270,15127
+Mietserver Ulta AX160-NVMe 24 Core (lease-purchase) (FC-23944-57,14000,110540,154756
+Mietserver Ulta100 Xeon SSD (lease-purchase) (FC-23958-62),5000,59800,29900
+Mietserver Ulta100 Xeon No-SSD (lease-purchase) (FC-23963-67),5000,48530,24265
+Stromleistung je kW/h zusätzlich: gesamt,2106000,570,120042
+Stromleistung je kW/h auf Stromkreis: UV2/11F9,1539000,0,0
+Stromleistung je kW/h auf Stromkreis: UV2/11F10,1567000,0,0
+Mietserver Private Company Server (Ulta AX160-NVMe 24,1000,110540,11054
+Hardware: Samsung 970 EVO M.2 with 2TB (FC-25684),9000,12500,11250
+"Mietserver [KS] Ulta AX160-NVMe 24 Core (AMD7402-15,",3000,123520,37056
+Mietserver [KS] Ulta100 Xeon NVMe SSD (E-2276G-11 E-2276G-12),2000,59630,11926
+Hardware: RAM-Upgrade 128 GB AMD 7402-11 (FC-26693),1000,30500,3050
+Hardware: Server-Upgrade (2x 960 GB PM883) (FC-26713),2000,11270,2254
+Traffic Flatrate 4 Gbit,1000,1900000,190000
+Shared Housing Ultahost-A3,1000,65000,6500
+Hardware: Server-Upgrade: SSD (FC-29004),1000,415000,41500
+Hardware: Server-Upgrade: RAM (FC-29004),1000,399000,39900
+1G Uplink Ultahost-A3 (FC-30128),1000,10000,1000
+Hardware: 64 GB RAM Ultahost-A1 (FC-29564),1000,27000,2700
+Hardware: Server-Upgrade AMD 7451-1 (FC-31437),1000,90000,9000
+DDoS Protection Arbor Lite (FC-31602),1000,99000,9900
+Mietserver Dell Server Hardware (FC-31772),1000,698000,69800
+Service: SVC-COR-SRX300JB,1000,7000,700
+Service: SVC-COR-SRX320JB,1000,7000,700
+Hardware: Server-Upgrade E-2276G-1 (FC-32269),1000,130000,13000
+Hardware: Server-Upgrade AMD7402-5 (FC-32606),1000,13600,1360
+Hardware: Serverupgrade A2 (FC-32852),1000,374000,37400
+Hardware: FC-33801,1000,172800,17280
+1/1 Rack (R1/3.16),1000,0,0
+Power Feeds Rack R1/3.16,1000,0,0
+Uplinks Rack R1/3.16,1000,0,0
+"Mietgerät: Juniper QFX5100-48T (FC-2291D2A, FC-2291EB8)",1000,175000,17500
+Mietserver Ulta 100-Xeon no SSD (FC-33243-57),15000,49000,73500
+Mietserver: VPS Host (FC-33262-64),1000,433000,43300
+Hardware Components,1000,323000,32300
+Storage-Upgrade ,1000,15000,1500
+Hardware: Intel X540-T2 (Dual 10GbE),2000,24000,4800
+"IP-Netz (159.100.30.0/24, 212.224.107.0/24)",2000,189000,37800
+1TB SSD for server AMD7402-16,1000,5000,500
+Dedicated Server: VPS Host (NVMe based),1000,618000,61800
+3U Supermicro Server - Modification,1000,204650,20465
+"Dedicated Server FC-35348, FC-35624",2000,130000,26000
+Dedicated Server FC-35349,1000,140000,14000
+Serverupgrade 276G-1,1000,33450,3345
+LSI 9560-16i Raid Controller,1000,45000,4500
+92TB PM983 Samsung NVMe SSD,1000,8300,830
+1x 960GB PM893 SSD,1000,5500,550
+"Dedicated Server FC-35583, FC-35584, FC-35585, FC-35586,",5000,49290,24645
+Dedicated Server FC-35865,1000,88000,8800
+Mietserver [KS] Ulta100 Xeon No-SSD (lease purchase) (E-2276G-13,5000,48530,24265
+Stromleistung Standort Kruppstraße je kW/h zusätzlich,1987000,570,113259
+Dedicated Server: FC-36099,1000,130000,13000
+"Dedicated Server: FC-36067, FC-36068",2000,125000,25000
+Dedicated Server: FC-36035,1000,140000,14000
+Hardware: 960GB M.2 PM983 NVMe,5000,4250,2125
+1/1 Colocation Rack: R3/3.17,1000,0,0
+Power Feeds for 5KW Colocation Racks,1000,0,0
+Fiber Uplinks for 5KW Colocation Racks,1000,0,0
+Network Switch: Juniper QFX5100-48T,1000,0,0
+Remotehands Kruppstraße,3000,45000,13500

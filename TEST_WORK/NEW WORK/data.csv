@@ -1,0 +1,91 @@
+,Name,quantity,per_unit,total
+0,1HE im 19'' Rack,2000,65000,13000
+1,"IP-Netz(159.100.29.0/24, 212.224.86.0/24, 212.224.88.0/24,",9000,154500,139050
+2,RemoteHands - Service Dienstleistung,1000,45000,4500
+3,RemoteHands - Service Dienstleistung,1000,45000,4500
+4,RemoteHands - Service Dienstleistung,1000,45000,4500
+5,RemoteHands - Service Dienstleistung,1000,45000,4500
+6,RemoteHands - Service Dienstleistung,1000,45000,4500
+7,RemoteHands - Service Dienstleistung,2000,45000,9000
+8,NetworkCard extension + cabling (FC-24908),5000,11000,5500
+9,"Hardware:Samsung PM883 3840GB (FC-24821, FC-24995)",4000,22000,8800
+10,Hardware:Samsung PM883 1920GB (FC-25256),1000,12500,1250
+11,Hardware:RAM-Upgrade AMD7452-1 (FC-25362),1000,91500,9150
+12,19''Rack inkl. Klima (M8),1000,752850,75285
+13,Stromleistungje kW/h Mindestabnahme,1000000,550,55000
+14,"MietgerÌ?t:Network Switch Juniper EX4300-48T (FC-213814D,",2000,55590,11118
+15,MietserverUlta AX160-NVMe 32 Core (lease-purchase) (FC-23943),1000,151270,15127
+16,MietserverUlta AX160-NVMe 24 Core (lease-purchase) (FC-23944-57,14000,110540,154756
+17,MietserverUlta100 Xeon SSD (lease-purchase) (FC-23958-62),5000,59800,29900
+18,MietserverUlta100 Xeon No-SSD (lease-purchase) (FC-23963-67),5000,48530,24265
+19,Stromleistungje kW/h zusÌ?tzlich: gesamt,6942000,570,395694
+20,Stromleistungje kW/h auf Stromkreis: UV-RZ-Vario-B/F2.4,48000,0,0
+21,Stromleistungje kW/h auf Stromkreis: UV-RZ-Vario-B/F1.8,2145000,0,0
+22,Stromleistungje kW/h auf Stromkreis: UV-RZ-Vario-A/F2.4,58000,0,0
+23,Stromleistungje kW/h auf Stromkreis: UV-RZ-Vario-A/F1.8,2042000,0,0
+24,Stromleistungje kW/h auf Stromkreis: UV2/11F9,1736000,0,0
+25,Stromleistungje kW/h auf Stromkreis: UV2/11F10,1913000,0,0
+26,MietserverPrivate Company Server (Ulta AX160-NVMe 24,1000,110540,11054
+27,Hardware:Samsung 970 EVO M.2 with 2TB (FC-25684),9000,12500,11250
+28,"Mietserver[KS] Ulta AX160-NVMe 24 Core (AMD7402-15,",3000,123520,37056
+29,Mietserver[KS] Ulta100 Xeon NVMe SSD (E-2276G-11 E-2276G-12),2000,59630,11926
+30,Hardware:RAM-Upgrade 128 GB AMD 7402-11 (FC-26693),1000,30500,3050
+31,Hardware:Server-Upgrade (2x 960 GB PM883) (FC-26713),2000,11270,2254
+32,TrafficFlatrate 6 Gbit,1000,2650000,265000
+33,SharedHousing Ultahost-A3,1000,65000,6500
+34,Hardware:Server-Upgrade: SSD (FC-29004),1000,415000,41500
+35,Hardware:Server-Upgrade: RAM (FC-29004),1000,399000,39900
+36,1GUplink Ultahost-A3 (FC-30128),1000,10000,1000
+37,Hardware:64 GB RAM Ultahost-A1 (FC-29564),1000,27000,2700
+38,Hardware:Server-Upgrade AMD 7451-1 (FC-31437),1000,90000,9000
+39,DDoSProtection Arbor Lite (FC-31602),1000,99000,9900
+40,MietserverDell Server Hardware (FC-31772),1000,698000,69800
+41,Hardware:Server-Upgrade E-2276G-1 (FC-32269),1000,130000,13000
+42,Hardware:Server-Upgrade AMD7402-5 (FC-32606),1000,13600,1360
+43,Hardware:Serverupgrade A2 (FC-32852),1000,374000,37400
+44,Hardware:FC-33801,1000,172800,17280
+45,1/1Rack (R1/3.16),1000,495000,49500
+46,PowerFeeds Rack R1/3.16,1000,160000,16000
+47,UplinksRack R1/3.16,1000,129000,12900
+48,"MietgerÌ?t:Juniper QFX5100-48T (FC-2291D2A, FC-2291EB8)",2000,175000,35000
+49,MietserverUlta 100-Xeon no SSD (FC-33243-57),15000,49000,73500
+50,Mietserver:VPS Host (FC-33262-64),1000,433000,43300
+51,HardwareComponents,1000,323000,32300
+52,Storage-Upgrade,1000,15000,1500
+53,Hardware:Intel X540-T2 (Dual 10GbE),2000,24000,4800
+54,"IP-Netz(159.100.30.0/24, 212.224.107.0/24)",2000,189000,37800
+55,1TBSSD for server AMD7402-16,1000,5000,500
+56,DedicatedServer: VPS Host (NVMe based),1000,618000,61800
+57,3USupermicro Server - Modification,1000,204650,20465
+58,"DedicatedServer FC-35348, FC-35624",2000,130000,26000
+59,DedicatedServer FC-35349,1000,140000,14000
+60,Serverupgrade276G-1,1000,33450,3345
+61,LSI9560-16i Raid Controller,1000,45000,4500
+62,92TBPM983 Samsung NVMe SSD,1000,8300,830
+63,1x960GB PM893 SSD,1000,5500,550
+64,DedicatedServer FC-35583 bis FC-35597,15000,49290,73935
+65,DedicatedServer FC-35865,1000,88000,8800
+66,Mietserver[KS] Ulta100 Xeon No-SSD (lease purchase) (E-2276G-13,5000,48530,24265
+67,StromleistungStandort KruppstraÌÙe je kW/h zusÌ?tzlich,2221000,570,126597
+68,DedicatedServer: FC-36099,1000,130000,13000
+69,"DedicatedServer: FC-36067, FC-36068",2000,125000,25000
+70,DedicatedServer: FC-36035,1000,140000,14000
+71,Hardware:960GB M.2 PM983 NVMe,5000,4250,2125
+72,1/1Colocation Rack: R3/3.17,1000,495000,49500
+73,PowerFeeds for 5KW Colocation Racks,1000,160000,16000
+74,FiberUplinks for 5KW Colocation Racks,1000,129000,12900
+75,NetworkSwitch: Juniper QFX5100-48T,1000,175000,17500
+76,84TBSamsung Enterprise SDD PM893,10000,13100,13100
+77,Hardware:1.92TB Samsung PM983 NVMe,1000,11500,1150
+78,"DedictedServer - VPS Host: FC-35579, FC-35580, FC-35581",3000,705000,211500
+79,Hardware:960GB PM893 SS,1000,4700,470
+80,"/24Subnet 212.224.93.0/24, 159.100.13.0/24",2000,154500,30900
+81,DedicatedServer: FC-36865,1000,105000,10500
+82,DedicatedServer - AMD 7763,1000,177000,17700
+83,DedicatedServer - AMD 7352,4000,100000,40000
+84,Hardware:1.92 TB SSD Samsung PM893 MZ7L31T9HBLT,4000,5800,2320
+85,Hardware:X520-DA2,2000,10000,2000
+86,DedicatedServer - FC-37113,1000,258000,25800
+87,DedicatedServer - Ulta100,24000,63200,151680
+88,DedicatedServer - FC-36850,1000,84800,8480
+89,Hardware:3.84TB PM893,2000,9600,1920

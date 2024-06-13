@@ -1,0 +1,51 @@
+import nselib
+from nselib import capital_market as cm
+
+nselib.trading_holiday_calendar()
+cm.nifty50_equity_list()
+cm.bhav_copy_equities("04-04-2024")
+cm.bhav_copy_with_delivery("04-04-2024")
+cm.block_deals_data(period="1M")
+
+from nselib import capital_market as cm
+cm.deliverable_position_data("SBIN",from_date="01-01-2024",to_date="04-04-2024")
+
+from nselib import capital_market as cm
+from datetime import datetime
+
+from_date = datetime(2024, 1, 1)
+to_date = datetime(2024, 4, 4)
+from nselib import capital_market as cm
+cm.deliverable_position_data("SBIN", from_date=from_date, to_date=to_date)
+
+cm.deliverable_position_data("HATSUN",period="1M")
+cm.price_volume_and_deliverable_position_data("SBIN",period="1M")
+cm.price_volume_data("SBIN",period="1M")
+cm.equity_list()
+cm.fno_equity_list()
+cm.deliverable_position_data()
+cm.index_data()
+from nselib import capital_market
+capital_market.index_data("NIFTY 50",period="1M")
+capital_market.index_data("NIFTY NEXT 50",period="1W")
+capital_market.india_vix_data(period="1M")
+capital_market.market_watch_all_indices()
+capital_market.india_vix_data(period="1M")
+capital_market.india_vix_data(period="1M")
+data=cm.price_volume_and_deliverable_position_data("SBIN",period="1M")
+cm.nifty50_equity_list()
+cm.price_volume_and_deliverable_position_data("SBIN",period="1M")
+cm.market_watch_all_indices()
+cm.equity_list()
+capital_market.short_selling_data(period="1m")
+cm.bhav_copy_equities("04-04-2024")
+
+import nselib.derivatives as de
+de.expiry_dates_option_index()
+de.fii_derivatives_statistics("02-04-2024")
+
+
+
+
+
+
