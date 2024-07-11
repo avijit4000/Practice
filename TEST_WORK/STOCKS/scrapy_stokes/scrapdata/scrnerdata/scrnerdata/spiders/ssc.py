@@ -12,7 +12,7 @@ class SscSpider(scrapy.Spider):
         super(SscSpider, self).__init__(*args, **kwargs)
 
         # Define the path to the CSV file
-        file_path = r'D:\Pyn\online learning\INURAN_DATA\FSDS_September\TEST_WORK\STOCKS\FINAL_DATA\SCRNER_DATA\download_data\all_companysdata.csv'
+        file_path = r'D:\Pyn\online learning\INURAN_DATA\FSDS_September\TEST_WORK\STOCKS\FINAL_DATA\SCRNER_DATA\download_data\Allcompanyname1.csv'
 
         # Initialize the start_urls list
         self.start_urls = []
@@ -26,12 +26,11 @@ class SscSpider(scrapy.Spider):
             header = next(csv_reader)
 
             # Find the index of the "Company_link" column
-            company_link_index = header.index("Company_link")
+            company_link_index = header.index("company_url")
 
             # Read the "Company_link" column from each row and add to start_urls
             for row in csv_reader:
                 self.start_urls.append(row[company_link_index])
-
 
     def parse(self, response):
         company_name=response.xpath("//*[@id='top']/div[1]/div/h1/text()").get()
@@ -48,8 +47,13 @@ class SscSpider(scrapy.Spider):
                 name: value
             }
 # quarterly results
-
-        data = response.xpath("//*[@id='quarters']/div[3]/table/tbody/tr")
+        try:
+            data = response.xpath("//*[@id='quarters']/div[3]/table/tbody/tr")
+            if not data:  # Check if the list is empty
+                raise ValueError("No elements found with the first XPath")
+        except:
+            data = response.xpath("//*[@id='quarters']/div[2]/table/tbody/tr")
+            #//*[@id="quarters"]/div[2]/table/tbody/tr
         for j in data:
             if j.xpath(".//td[1]/button"):
                 name1 = j.xpath(".//td[1]/button/text()").get()
@@ -67,8 +71,12 @@ class SscSpider(scrapy.Spider):
             yield {
                 name1: values
             }
+
 ## profit loss
-        data1 = response.xpath("//*[@id='profit-loss']/div[3]/table/tbody/tr")
+        try:
+            data1 = response.xpath("//*[@id='profit-loss']/div[3]/table/tbody/tr")
+        except:
+            data1 = response.xpath("//*[@id='profit-loss']/div[2]/table/tbody/tr")
         for j in data1:
             if j.xpath(".//td[1]/button"):
                 name1 = j.xpath(".//td[1]/button/text()").get()

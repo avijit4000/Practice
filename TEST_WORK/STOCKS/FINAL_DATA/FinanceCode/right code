@@ -1,0 +1,80 @@
+all balance sheet data
+
+adjusted_y = []
+columns = []
+
+try:
+    for i in range(2):  # Iterate through the first 2 rows of the DataFrame
+        try:
+            driver.get(df["company_url"][i])
+            time.sleep(1)
+            url = df["company_url"][i]
+            print(url)
+            try:
+                table = driver.find_element("xpath", '//*[@id="quarters"]')
+            except Exception as e:
+                print(f"Error finding table: {e}")
+                continue  # Skip to the next iteration if the table is not found
+
+            try:
+                a = table.find_element("xpath", './div[1]/div[1]/h2').text
+                print(a)
+            except Exception as e:
+                print(f"Error finding text: {e}")
+
+            # Extracting columns
+            try:
+                th_elements = table.find_elements("xpath", './/div[3]/table/thead/tr/th')
+                if not th_elements:  # Check if the list is empty
+                    raise ValueError("No elements found with the first XPath")
+            except:
+                th_elements = table.find_elements("xpath", './/div[2]/table/thead/tr/th')
+
+            columns = [th.text for th in th_elements if th.text]
+            print(columns)
+
+            y = []
+            try:
+                b = table.find_elements("xpath", './/div[3]/table/tbody/tr')
+                if not b:  # Check if the list is empty
+                    raise ValueError("No elements found with the first XPath")
+            except:
+                b = table.find_elements("xpath", './/div[2]/table/tbody/tr')
+
+            for h in b:
+                g = h.find_elements("xpath", './/td')
+                w = []
+                for s in g:
+                    text = s.text
+                    if not text:
+                        try:
+                            text = s.find_element("xpath", './/button').text
+                        except:
+                            text = ""
+                    w.append(text)
+                y.append(w)
+
+            for row in y:
+                if len(row) > len(columns):
+                    adjusted_y.append(row[:len(columns)])  # Trim extra elements
+                elif len(row) < len(columns):
+                    adjusted_y.append(row + [""] * (len(columns) - len(row)))  # Pad missing elements
+                else:
+                    adjusted_y.append(row)
+
+        except Exception as e:
+            print(f"Error processing URL {url}: {e}")
+
+except Exception as e:
+    print(f"General error: {e}")
+
+finally:
+    driver.quit()
+
+# Ensure adjusted_y and columns are not empty before creating the DataFrame
+if adjusted_y and columns:
+    dict_list = pd.DataFrame(data=adjusted_y, columns=columns)
+    print(dict_list)
+    dict_list.to_csv("data1.csv", index=False)
+else:
+    print("No data to create DataFrame")
